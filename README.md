@@ -65,7 +65,7 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 
 ## Typical session
 
-- _12:00-12:40pm KST **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _12:00-12:40pm KST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
 - _12:40pm-1:00pm KST_ **Q&A session** where you'll be able to ask the teachers any question you might have and share your screen with them for a live help
 - _1:00pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-seoul.slack.com) to find a buddy and work with her/him, interact with other classmates, or just send a funny gif 🙈
 
@@ -76,7 +76,8 @@ For each session, a private Zoom link will be shared on the course Slack channel
 
 Can't wait to know more about programming? **[Apply to Le Wagon Seoul](http://www.lewagon.com/seoul/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special ￦500,000 off the next Seoul courses tuition** starting October 10th (part-time) and October 12th (full-time)! 🇰🇷  Note that this special discount can't be combined with other available discounts.
+By completing this course, **you get a special ￦500,000 off the next Seoul courses tuition** starting October 10th (part-time) and October 12th (full-time)! 🇰🇷
+Note that this special discount can't be combined with other available discounts.
 Applications are open for our next batches and spots are running out fast! Check out our program on our website and [get in touch with Zachary if you want to get more information](https://lew.ag/zachary).
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Seoul), [Facebook](https://www.facebook.com/lewagonseoul) and [Instagram](https://www.instagram.com/lewagonkorea), and stay involved in our amazing community 🤩
